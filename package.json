@@ -15,6 +15,6 @@
   "dependencies": {
     "@types/big.js": "^4.0.5",
     "big.js": "^5.2.2",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
